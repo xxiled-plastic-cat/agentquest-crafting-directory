@@ -1,0 +1,9 @@
+{
+  "name": "agentquest-crafting-directory",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Public crafting catalog for Agent Quest.",
+  "scripts": {
+    "validate:catalog": "node scripts/validate-catalog.mjs"
+  }
+}

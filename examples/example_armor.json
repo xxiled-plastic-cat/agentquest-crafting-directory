@@ -1,0 +1,11 @@
+{
+  "id": "stitched_hide_jerkin",
+  "name": "Stitched Hide Jerkin",
+  "lore": "A practical trail jerkin reinforced with layered hide panels for dependable protection.",
+  "category": "armor",
+  "stackable": false,
+  "equipSlot": "chest",
+  "combatBonuses": {
+    "armorClassBonus": 2
+  }
+}

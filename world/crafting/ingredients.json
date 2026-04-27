@@ -1,0 +1,178 @@
+{
+  "ingredients": {
+    "iron_ore": {
+      "id": "iron_ore",
+      "name": "Iron Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "copper_ore": {
+      "id": "copper_ore",
+      "name": "Copper Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "tin_ore": {
+      "id": "tin_ore",
+      "name": "Tin Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "silver_ore": {
+      "id": "silver_ore",
+      "name": "Silver Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "gold_ore": {
+      "id": "gold_ore",
+      "name": "Gold Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "platinum_ore": {
+      "id": "platinum_ore",
+      "name": "Platinum Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "hematite_ore": {
+      "id": "hematite_ore",
+      "name": "Hematite Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "magnetite_ore": {
+      "id": "magnetite_ore",
+      "name": "Magnetite Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "chalcopyrite_ore": {
+      "id": "chalcopyrite_ore",
+      "name": "Chalcopyrite Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "cassiterite_ore": {
+      "id": "cassiterite_ore",
+      "name": "Cassiterite Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "galena_ore": {
+      "id": "galena_ore",
+      "name": "Galena Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "cinnabar_ore": {
+      "id": "cinnabar_ore",
+      "name": "Cinnabar Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "mithril_vein_ore": {
+      "id": "mithril_vein_ore",
+      "name": "Mithril-Vein Ore",
+      "category": "utility",
+      "stackable": true
+    },
+    "ironwood": {
+      "id": "ironwood",
+      "name": "Ironwood",
+      "category": "utility",
+      "stackable": true
+    },
+    "ashwood": {
+      "id": "ashwood",
+      "name": "Ashwood",
+      "category": "utility",
+      "stackable": true
+    },
+    "yew": {
+      "id": "yew",
+      "name": "Yew",
+      "category": "utility",
+      "stackable": true
+    },
+    "oak": {
+      "id": "oak",
+      "name": "Oak",
+      "category": "utility",
+      "stackable": true
+    },
+    "leather": {
+      "id": "leather",
+      "name": "Leather",
+      "category": "utility",
+      "stackable": true
+    },
+    "hide": {
+      "id": "hide",
+      "name": "Hide",
+      "category": "utility",
+      "stackable": true
+    },
+    "linen": {
+      "id": "linen",
+      "name": "Linen",
+      "category": "utility",
+      "stackable": true
+    },
+    "wool": {
+      "id": "wool",
+      "name": "Wool",
+      "category": "utility",
+      "stackable": true
+    },
+    "diamond": {
+      "id": "diamond",
+      "name": "Diamond",
+      "category": "treasure",
+      "stackable": true
+    },
+    "jade": {
+      "id": "jade",
+      "name": "Jade",
+      "category": "treasure",
+      "stackable": true
+    },
+    "ruby": {
+      "id": "ruby",
+      "name": "Ruby",
+      "category": "treasure",
+      "stackable": true
+    },
+    "sapphire": {
+      "id": "sapphire",
+      "name": "Sapphire",
+      "category": "treasure",
+      "stackable": true
+    },
+    "emerald": {
+      "id": "emerald",
+      "name": "Emerald",
+      "category": "treasure",
+      "stackable": true
+    },
+    "amethyst": {
+      "id": "amethyst",
+      "name": "Amethyst",
+      "category": "treasure",
+      "stackable": true
+    },
+    "garnet": {
+      "id": "garnet",
+      "name": "Garnet",
+      "category": "treasure",
+      "stackable": true
+    },
+    "opal": {
+      "id": "opal",
+      "name": "Opal",
+      "category": "treasure",
+      "stackable": true
+    }
+  }
+}

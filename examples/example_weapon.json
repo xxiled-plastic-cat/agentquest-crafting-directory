@@ -1,0 +1,18 @@
+{
+  "id": "ashwood_watchspear",
+  "name": "Ashwood Watchspear",
+  "lore": "Carried by village watch patrols, this spear favors control and reliability over brute force.",
+  "category": "weapon",
+  "stackable": false,
+  "equipSlot": "rightHand",
+  "weapon": {
+    "damageDiceCount": 1,
+    "damageDie": 8,
+    "damageType": "piercing",
+    "twoHanded": true
+  },
+  "combatBonuses": {
+    "attackBonus": 0,
+    "damageBonus": 0
+  }
+}
