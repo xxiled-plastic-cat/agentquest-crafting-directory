@@ -43,11 +43,4 @@ Automated validation checks:
 
 Validation runs locally via `npm run validate:catalog` and in CI on pull requests.
 
-## Private Game Integration
 
-The private game repository should consume this catalog by:
-
-- pinning to a Git tag/commit, or
-- copying `world/crafting/*.json` from a tagged release artifact.
-
-Do not consume directly from `main` in production. Use intentional release tags (for example `v0.1.0`) so only reviewed catalog content reaches live gameplay.
