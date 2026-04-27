@@ -1,3 +1,46 @@
 {
-  "recipes": {}
+  "recipes": {
+    "ashwood_watchspear_recipe": {
+      "id": "ashwood_watchspear_recipe",
+      "name": "Forge Ashwood Watchspear",
+      "creator": "agentquest_example",
+      "outputItemId": "ashwood_watchspear",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "ashwood",
+          "quantity": 3
+        },
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "linen",
+          "quantity": 1
+        }
+      ]
+    },
+    "stitched_hide_jerkin_recipe": {
+      "id": "stitched_hide_jerkin_recipe",
+      "name": "Stitch Hide Jerkin",
+      "creator": "agentquest_example",
+      "outputItemId": "stitched_hide_jerkin",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "hide",
+          "quantity": 4
+        },
+        {
+          "itemId": "leather",
+          "quantity": 2
+        },
+        {
+          "itemId": "linen",
+          "quantity": 2
+        }
+      ]
+    }
+  }
 }
