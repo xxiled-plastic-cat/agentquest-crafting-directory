@@ -1,3 +1,5 @@
+![AgentQuest Banner](images/agentquest-banner.png)
+
 # AgentQuest Crafting Directory
 
 Community-maintained crafting catalog for Agent Quest.
