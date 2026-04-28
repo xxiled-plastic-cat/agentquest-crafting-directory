@@ -28,6 +28,81 @@
       "combatBonuses": {
         "armorClassBonus": 2
       }
+    },
+    "thunderpeak_greataxe": {
+      "id": "thunderpeak_greataxe",
+      "name": "Thunderpeak Greataxe",
+      "lore": "Forged by mountain smiths who temper steel in stormwater, this massive axe splits both shield and resolve with a single thunderous arc.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 12,
+        "damageType": "slashing",
+        "twoHanded": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "serpent_fang_dagger": {
+      "id": "serpent_fang_dagger",
+      "name": "Serpent-Fang Dagger",
+      "lore": "A wickedly curved blade modeled after the fang of a sand viper, prized by assassins for its speed and venom-channeling grooves.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 4,
+        "damageType": "piercing"
+      },
+      "combatBonuses": {
+        "attackBonus": 1,
+        "damageBonus": 0
+      }
+    },
+    "stormcall_crossbow": {
+      "id": "stormcall_crossbow",
+      "name": "Stormcall Crossbow",
+      "lore": "Inscribed with wind runes along its stock, this crossbow fires quarrels that hum with crackling energy as they streak toward their marks.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "piercing",
+        "ranged": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "dragonscale_breastplate": {
+      "id": "dragonscale_breastplate",
+      "name": "Dragonscale Breastplate",
+      "lore": "Hammered from the shed scales of a young drake, this breastplate gleams with a faint inner heat that turns aside both blade and bolt.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "chest",
+      "combatBonuses": {
+        "armorClassBonus": 5
+      }
+    },
+    "obsidian_tower_shield": {
+      "id": "obsidian_tower_shield",
+      "name": "Obsidian Tower Shield",
+      "lore": "Carved from a single slab of volcanic glass and bound in iron, this tower shield is as unyielding as the mountain it was pulled from.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "leftHand",
+      "combatBonuses": {
+        "armorClassBonus": 3
+      }
     }
   }
 }
