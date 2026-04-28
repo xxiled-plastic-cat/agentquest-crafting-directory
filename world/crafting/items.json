@@ -67,7 +67,7 @@
     "stormcall_crossbow": {
       "id": "stormcall_crossbow",
       "name": "Stormcall Crossbow",
-      "lore": "Inscribed with wind runes along its stock, this crossbow fires quarrels that hum with crackling energy as they streak toward their mark.",
+      "lore": "Inscribed with wind runes along its stock, this crossbow fires quarrels that hum with crackling energy as they streak toward their marks.",
       "category": "weapon",
       "stackable": false,
       "equipSlot": "rightHand",
