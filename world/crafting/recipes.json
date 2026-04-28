@@ -41,6 +41,111 @@
           "quantity": 2
         }
       ]
+    },
+    "thunderpeak_greataxe_recipe": {
+      "id": "thunderpeak_greataxe_recipe",
+      "name": "Forge Thunderpeak Greataxe",
+      "creator": "agentquest_example",
+      "outputItemId": "thunderpeak_greataxe",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "iron_ore",
+          "quantity": 3
+        },
+        {
+          "itemId": "oak",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "serpent_fang_dagger_recipe": {
+      "id": "serpent_fang_dagger_recipe",
+      "name": "Forge Serpent-Fang Dagger",
+      "creator": "agentquest_example",
+      "outputItemId": "serpent_fang_dagger",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "iron_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "cinnabar_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "stormcall_crossbow_recipe": {
+      "id": "stormcall_crossbow_recipe",
+      "name": "Craft Stormcall Crossbow",
+      "creator": "agentquest_example",
+      "outputItemId": "stormcall_crossbow",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "yew",
+          "quantity": 3
+        },
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "linen",
+          "quantity": 1
+        }
+      ]
+    },
+    "dragonscale_breastplate_recipe": {
+      "id": "dragonscale_breastplate_recipe",
+      "name": "Forge Dragonscale Breastplate",
+      "creator": "agentquest_example",
+      "outputItemId": "dragonscale_breastplate",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "gold_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 3
+        },
+        {
+          "itemId": "hide",
+          "quantity": 2
+        }
+      ]
+    },
+    "obsidian_tower_shield_recipe": {
+      "id": "obsidian_tower_shield_recipe",
+      "name": "Forge Obsidian Tower Shield",
+      "creator": "agentquest_example",
+      "outputItemId": "obsidian_tower_shield",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "magnetite_ore",
+          "quantity": 3
+        },
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
     }
   }
 }
