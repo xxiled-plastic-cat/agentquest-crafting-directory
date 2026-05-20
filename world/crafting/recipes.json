@@ -146,6 +146,111 @@
           "quantity": 1
         }
       ]
+    },
+    "lantern_road_cutlass_recipe": {
+      "id": "lantern_road_cutlass_recipe",
+      "name": "Forge Lantern Road Cutlass",
+      "creator": "davethediver1010-cmd",
+      "outputItemId": "lantern_road_cutlass",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "copper_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "hollow_mine_pickaxe_recipe": {
+      "id": "hollow_mine_pickaxe_recipe",
+      "name": "Forge Hollow Mine Pickaxe",
+      "creator": "davethediver1010-cmd",
+      "outputItemId": "hollow_mine_pickaxe",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "ashwood",
+          "quantity": 2
+        },
+        {
+          "itemId": "hematite_ore",
+          "quantity": 1
+        }
+      ]
+    },
+    "windbreak_yew_longbow_recipe": {
+      "id": "windbreak_yew_longbow_recipe",
+      "name": "Craft Windbreak Yew Longbow",
+      "creator": "davethediver1010-cmd",
+      "outputItemId": "windbreak_yew_longbow",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "yew",
+          "quantity": 3
+        },
+        {
+          "itemId": "linen",
+          "quantity": 2
+        },
+        {
+          "itemId": "hide",
+          "quantity": 1
+        }
+      ]
+    },
+    "caravan_quilted_hauberk_recipe": {
+      "id": "caravan_quilted_hauberk_recipe",
+      "name": "Stitch Caravan Quilted Hauberk",
+      "creator": "davethediver1010-cmd",
+      "outputItemId": "caravan_quilted_hauberk",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "wool",
+          "quantity": 3
+        },
+        {
+          "itemId": "linen",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 2
+        }
+      ]
+    },
+    "emberglass_kite_shield_recipe": {
+      "id": "emberglass_kite_shield_recipe",
+      "name": "Forge Emberglass Kite Shield",
+      "creator": "davethediver1010-cmd",
+      "outputItemId": "emberglass_kite_shield",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "oak",
+          "quantity": 2
+        },
+        {
+          "itemId": "copper_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "opal",
+          "quantity": 1
+        }
+      ]
     }
   }
 }

@@ -103,6 +103,81 @@
       "combatBonuses": {
         "armorClassBonus": 3
       }
+    },
+    "lantern_road_cutlass": {
+      "id": "lantern_road_cutlass",
+      "name": "Lantern Road Cutlass",
+      "lore": "A short iron blade carried by night caravan escorts, brightened with a copper guard so allies can spot its sweep by lanternlight.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 6,
+        "damageType": "slashing"
+      },
+      "combatBonuses": {
+        "attackBonus": 1,
+        "damageBonus": 0
+      }
+    },
+    "hollow_mine_pickaxe": {
+      "id": "hollow_mine_pickaxe",
+      "name": "Hollow Mine Pickaxe",
+      "lore": "A reinforced miner's pick balanced for tunnel work, with a hematite-weighted head that can punch through shale or a raider's mail.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "piercing",
+        "twoHanded": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "windbreak_yew_longbow": {
+      "id": "windbreak_yew_longbow",
+      "name": "Windbreak Yew Longbow",
+      "lore": "Laminated yew wrapped with linen and hide, built for ridge scouts who need a steady draw when crosswinds tear at the trail.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "piercing",
+        "ranged": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "caravan_quilted_hauberk": {
+      "id": "caravan_quilted_hauberk",
+      "name": "Caravan Quilted Hauberk",
+      "lore": "A dense traveling hauberk sewn from wool, linen, and leather scraps, prized by haulers who expect dust, rain, and thrown knives.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "chest",
+      "combatBonuses": {
+        "armorClassBonus": 3
+      }
+    },
+    "emberglass_kite_shield": {
+      "id": "emberglass_kite_shield",
+      "name": "Emberglass Kite Shield",
+      "lore": "An oak-backed shield faced with copper and set with a smoky opal chip, used by border sentries to catch firelight during dusk watches.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "leftHand",
+      "combatBonuses": {
+        "armorClassBonus": 2
+      }
     }
   }
 }
