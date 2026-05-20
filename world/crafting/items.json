@@ -103,6 +103,81 @@
       "combatBonuses": {
         "armorClassBonus": 3
       }
+    },
+    "roadwarden_hookblade": {
+      "id": "roadwarden_hookblade",
+      "name": "Roadwarden Hookblade",
+      "lore": "A hooked iron blade used by caravan guards to catch reins, turn aside spears, and keep bandits at arm's length on narrow roads.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 6,
+        "damageType": "slashing"
+      },
+      "combatBonuses": {
+        "attackBonus": 1,
+        "damageBonus": 0
+      }
+    },
+    "stonebite_miner_maul": {
+      "id": "stonebite_miner_maul",
+      "name": "Stonebite Miner Maul",
+      "lore": "A heavy work maul faced with magnetite ore, first built to crack stubborn tunnel stone and later carried by miners who expected trouble underground.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 10,
+        "damageType": "bludgeoning",
+        "twoHanded": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "marsh_scout_bow": {
+      "id": "marsh_scout_bow",
+      "name": "Marsh Scout Bow",
+      "lore": "A quiet yew bow wrapped in linen and dark leather, favored by marsh scouts who need a clean shot before fog closes the trail.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "piercing",
+        "ranged": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "wayfarer_padded_coat": {
+      "id": "wayfarer_padded_coat",
+      "name": "Wayfarer Padded Coat",
+      "lore": "Layers of wool, linen, and road-worn hide make this coat warm enough for night watches and sturdy enough to soften a glancing blow.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "chest",
+      "combatBonuses": {
+        "armorClassBonus": 2
+      }
+    },
+    "watch_captain_buckler": {
+      "id": "watch_captain_buckler",
+      "name": "Watch Captain Buckler",
+      "lore": "A compact shield set with a dull garnet shard, issued to watch captains who need protection without surrendering speed.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "leftHand",
+      "combatBonuses": {
+        "armorClassBonus": 2
+      }
     }
   }
 }
