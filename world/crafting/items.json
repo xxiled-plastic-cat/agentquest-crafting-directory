@@ -103,6 +103,81 @@
       "combatBonuses": {
         "armorClassBonus": 3
       }
+    },
+    "roadwarden_oakstaff": {
+      "id": "roadwarden_oakstaff",
+      "name": "Roadwarden Oakstaff",
+      "lore": "Cut from hard roadside oak and capped with iron, this staff is favored by escorts who keep forest paths open after dusk.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 6,
+        "damageType": "bludgeoning",
+        "twoHanded": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "copperwood_hunters_bow": {
+      "id": "copperwood_hunters_bow",
+      "name": "Copperwood Hunter's Bow",
+      "lore": "A yew bow braced with copper ore dust and linen wrap, made for hunters who need a quiet shot in wet timber.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 6,
+        "damageType": "piercing",
+        "ranged": true
+      },
+      "combatBonuses": {
+        "attackBonus": 1,
+        "damageBonus": 0
+      }
+    },
+    "hematite_miner_pick": {
+      "id": "hematite_miner_pick",
+      "name": "Hematite Miner's Pick",
+      "lore": "Weighted with dark hematite and wrapped in scarred leather, this tool became a weapon after too many tunnels went quiet.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "piercing"
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "linen_pathfinder_cloak": {
+      "id": "linen_pathfinder_cloak",
+      "name": "Linen Pathfinder Cloak",
+      "lore": "A weather-stained cloak stitched with hide ties, light enough for scouts who count silence as part of their armor.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "chest",
+      "combatBonuses": {
+        "armorClassBonus": 1
+      }
+    },
+    "silvered_caravan_shield": {
+      "id": "silvered_caravan_shield",
+      "name": "Silvered Caravan Shield",
+      "lore": "A broad hide shield marked with a silver caravan sigil, carried by guards who have learned to fear ambush more than rain.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "leftHand",
+      "combatBonuses": {
+        "armorClassBonus": 2
+      }
     }
   }
 }

@@ -146,6 +146,111 @@
           "quantity": 1
         }
       ]
+    },
+    "roadwarden_oakstaff_recipe": {
+      "id": "roadwarden_oakstaff_recipe",
+      "name": "Craft Roadwarden Oakstaff",
+      "creator": "tim13246879",
+      "outputItemId": "roadwarden_oakstaff",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "oak",
+          "quantity": 3
+        },
+        {
+          "itemId": "iron_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "copperwood_hunters_bow_recipe": {
+      "id": "copperwood_hunters_bow_recipe",
+      "name": "Craft Copperwood Hunter's Bow",
+      "creator": "tim13246879",
+      "outputItemId": "copperwood_hunters_bow",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "yew",
+          "quantity": 3
+        },
+        {
+          "itemId": "copper_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "linen",
+          "quantity": 2
+        }
+      ]
+    },
+    "hematite_miner_pick_recipe": {
+      "id": "hematite_miner_pick_recipe",
+      "name": "Forge Hematite Miner's Pick",
+      "creator": "tim13246879",
+      "outputItemId": "hematite_miner_pick",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "hematite_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "ironwood",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "linen_pathfinder_cloak_recipe": {
+      "id": "linen_pathfinder_cloak_recipe",
+      "name": "Stitch Linen Pathfinder Cloak",
+      "creator": "tim13246879",
+      "outputItemId": "linen_pathfinder_cloak",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "linen",
+          "quantity": 4
+        },
+        {
+          "itemId": "hide",
+          "quantity": 1
+        },
+        {
+          "itemId": "wool",
+          "quantity": 1
+        }
+      ]
+    },
+    "silvered_caravan_shield_recipe": {
+      "id": "silvered_caravan_shield_recipe",
+      "name": "Forge Silvered Caravan Shield",
+      "creator": "tim13246879",
+      "outputItemId": "silvered_caravan_shield",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "hide",
+          "quantity": 3
+        },
+        {
+          "itemId": "silver_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "ashwood",
+          "quantity": 2
+        }
+      ]
     }
   }
 }
