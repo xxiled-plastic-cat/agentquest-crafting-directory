@@ -103,6 +103,81 @@
       "combatBonuses": {
         "armorClassBonus": 3
       }
+    },
+    "frostline_billhook": {
+      "id": "frostline_billhook",
+      "name": "Frostline Billhook",
+      "lore": "A hooked ashwood polearm carried by ridge scouts who cut brush, drag supplies, and pull raiders from frozen saddles.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "slashing",
+        "twoHanded": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "garnet_signal_mace": {
+      "id": "garnet_signal_mace",
+      "name": "Garnet Signal Mace",
+      "lore": "Messenger guards favor this copper-headed mace because its garnet cap flashes red across long roads at sunset.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 6,
+        "damageType": "bludgeoning"
+      },
+      "combatBonuses": {
+        "attackBonus": 1,
+        "damageBonus": 0
+      }
+    },
+    "yewglass_scout_bow": {
+      "id": "yewglass_scout_bow",
+      "name": "Yewglass Scout Bow",
+      "lore": "A pale yew bow strung with linen and set with a small sapphire sight, made for silent watch posts above misty roads.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "piercing",
+        "ranged": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "ironwood_raincoat": {
+      "id": "ironwood_raincoat",
+      "name": "Ironwood Raincoat",
+      "lore": "A waxed linen coat ribbed with thin ironwood slats, common among caravan scouts who expect weather before arrows.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "chest",
+      "combatBonuses": {
+        "armorClassBonus": 2
+      }
+    },
+    "opal_lamplighter_shield": {
+      "id": "opal_lamplighter_shield",
+      "name": "Opal Lamplighter Shield",
+      "lore": "Night patrols hang this oak shield beside bridge lanterns so its opal chips catch torchlight and warn allies in fog.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "leftHand",
+      "combatBonuses": {
+        "armorClassBonus": 2
+      }
     }
   }
 }

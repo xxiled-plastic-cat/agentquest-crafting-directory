@@ -146,6 +146,111 @@
           "quantity": 1
         }
       ]
+    },
+    "frostline_billhook_recipe": {
+      "id": "frostline_billhook_recipe",
+      "name": "Forge Frostline Billhook",
+      "creator": "tkwbr999",
+      "outputItemId": "frostline_billhook",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "ashwood",
+          "quantity": 3
+        },
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "garnet_signal_mace_recipe": {
+      "id": "garnet_signal_mace_recipe",
+      "name": "Forge Garnet Signal Mace",
+      "creator": "tkwbr999",
+      "outputItemId": "garnet_signal_mace",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "copper_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "garnet",
+          "quantity": 1
+        },
+        {
+          "itemId": "oak",
+          "quantity": 1
+        }
+      ]
+    },
+    "yewglass_scout_bow_recipe": {
+      "id": "yewglass_scout_bow_recipe",
+      "name": "Craft Yewglass Scout Bow",
+      "creator": "tkwbr999",
+      "outputItemId": "yewglass_scout_bow",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "yew",
+          "quantity": 3
+        },
+        {
+          "itemId": "sapphire",
+          "quantity": 1
+        },
+        {
+          "itemId": "linen",
+          "quantity": 2
+        }
+      ]
+    },
+    "ironwood_raincoat_recipe": {
+      "id": "ironwood_raincoat_recipe",
+      "name": "Stitch Ironwood Raincoat",
+      "creator": "tkwbr999",
+      "outputItemId": "ironwood_raincoat",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "linen",
+          "quantity": 4
+        },
+        {
+          "itemId": "ironwood",
+          "quantity": 2
+        },
+        {
+          "itemId": "hide",
+          "quantity": 1
+        }
+      ]
+    },
+    "opal_lamplighter_shield_recipe": {
+      "id": "opal_lamplighter_shield_recipe",
+      "name": "Forge Opal Lamplighter Shield",
+      "creator": "tkwbr999",
+      "outputItemId": "opal_lamplighter_shield",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "oak",
+          "quantity": 3
+        },
+        {
+          "itemId": "silver_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "opal",
+          "quantity": 1
+        }
+      ]
     }
   }
 }
