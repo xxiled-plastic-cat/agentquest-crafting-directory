@@ -103,6 +103,87 @@
       "combatBonuses": {
         "armorClassBonus": 3
       }
+    },
+    "voidcrusher_maul": {
+      "id": "voidcrusher_maul",
+      "name": "Voidcrusher Maul",
+      "lore": "A brutal war hammer forged in the deep forges beneath a long-fallen fortress, its head inscribed with runes that shatter both armor and bone. Knights who survive a single swing speak of the void they glimpse before impact.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 12,
+        "damageType": "bludgeoning",
+        "twoHanded": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "ruinblade": {
+      "id": "ruinblade",
+      "name": "Ruinblade",
+      "lore": "Once the sidearm of a fallen castle siege commander, this dark steel sword hums faintly when drawn, as if remembering the walls it helped bring down.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "slashing"
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
+    },
+    "twinfang_blade": {
+      "id": "twinfang_blade",
+      "name": "Twinfang Blade",
+      "lore": "A swift dual-edged sword favored by arena duelists across the frontier, its twin edges catch light from both sides, making it nearly impossible to track in a fight.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 6,
+        "damageType": "slashing"
+      },
+      "combatBonuses": {
+        "attackBonus": 1,
+        "damageBonus": 0
+      }
+    },
+    "drakeforge_plate": {
+      "id": "drakeforge_plate",
+      "name": "Drakeforge Plate",
+      "lore": "Hammered from ore smelted with drake blood and tempered in glacial spring water, this heavy plate armor bears the faint scorch marks of its forging and turns aside blows that would fell lesser steel.",
+      "category": "armor",
+      "stackable": false,
+      "equipSlot": "chest",
+      "combatBonuses": {
+        "armorClassBonus": 4
+      }
+    },
+    "moonspire_bow": {
+      "id": "moonspire_bow",
+      "name": "Moonspire Bow",
+      "lore": "Crafted from pale yew and bound with silver thread under a full moon, this bow was the weapon of Elven sentinels who guarded the forest spires. Its arrows seem to find their mark with unnatural certainty.",
+      "category": "weapon",
+      "stackable": false,
+      "equipSlot": "rightHand",
+      "weapon": {
+        "damageDiceCount": 1,
+        "damageDie": 8,
+        "damageType": "piercing",
+        "ranged": true
+      },
+      "combatBonuses": {
+        "attackBonus": 0,
+        "damageBonus": 0
+      }
     }
   }
 }

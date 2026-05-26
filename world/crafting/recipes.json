@@ -146,6 +146,119 @@
           "quantity": 1
         }
       ]
+    },
+    "voidcrusher_maul_recipe": {
+      "id": "voidcrusher_maul_recipe",
+      "name": "Forge Voidcrusher Maul",
+      "creator": "p2arthur",
+      "outputItemId": "voidcrusher_maul",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "magnetite_ore",
+          "quantity": 3
+        },
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "oak",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "ruinblade_recipe": {
+      "id": "ruinblade_recipe",
+      "name": "Forge Ruinblade",
+      "creator": "p2arthur",
+      "outputItemId": "ruinblade",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "iron_ore",
+          "quantity": 3
+        },
+        {
+          "itemId": "hematite_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "twinfang_blade_recipe": {
+      "id": "twinfang_blade_recipe",
+      "name": "Forge Twinfang Blade",
+      "creator": "p2arthur",
+      "outputItemId": "twinfang_blade",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "silver_ore",
+          "quantity": 1
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "drakeforge_plate_recipe": {
+      "id": "drakeforge_plate_recipe",
+      "name": "Forge Drakeforge Plate",
+      "creator": "p2arthur",
+      "outputItemId": "drakeforge_plate",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "gold_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 2
+        },
+        {
+          "itemId": "hide",
+          "quantity": 2
+        }
+      ]
+    },
+    "moonspire_bow_recipe": {
+      "id": "moonspire_bow_recipe",
+      "name": "Craft Moonspire Bow",
+      "creator": "p2arthur",
+      "outputItemId": "moonspire_bow",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "yew",
+          "quantity": 3
+        },
+        {
+          "itemId": "silver_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "linen",
+          "quantity": 1
+        }
+      ]
     }
   }
 }
